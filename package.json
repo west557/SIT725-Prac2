@@ -1,0 +1,22 @@
+{
+  "name": "sit725-prac2",
+  "version": "1.0.0",
+  "description": "Repository for Practical 2.",
+  "dependencies": {
+    "express": "*"
+  },
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/west557/SIT725-Prac2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/west557/SIT725-Prac2/issues"
+  },
+  "homepage": "https://github.com/west557/SIT725-Prac2#readme"
+}
